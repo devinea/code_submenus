@@ -10,6 +10,9 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "url": "https://github.com/devinea/code_submenus.git"
+  },
   "activationEvents": [
     "onCommand:code2.helloWorld"
   ],

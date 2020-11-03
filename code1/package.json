@@ -1,5 +1,6 @@
 {
   "name": "code1",
+  "publisher": "testcode",
 	"displayName": "code1",
 	"description": "submenu",
 	"version": "0.0.1",
@@ -9,6 +10,9 @@
 	"categories": [
 		"Other"
 	],
+	"repository": {
+		"url": "https://github.com/devinea/code_submenus.git"
+	  },
 	"activationEvents": [
         "onCommand:code1.helloWorld"
 	],

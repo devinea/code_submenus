@@ -1,1 +1,1 @@
-test examples
+submenu example
